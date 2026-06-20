@@ -120,7 +120,7 @@ The following preprocessing steps were performed:
 
 ### Executive Overview
 
-![Overview](screenshots/dashboard1.png)
+![Overview](Screenshot 2026-06-20 221256.png)
 
 ### Sales Analysis
 
