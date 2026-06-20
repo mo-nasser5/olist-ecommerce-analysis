@@ -124,7 +124,7 @@ Screenshot 2026-06-20 221256.png
 
 ### Sales Analysis
 
-![Sales](Screenshot2026-06-20221334.png)
+![Sales](Screenshot 2026-06-20 221256.png)
 
 ### Customer Insights
 
