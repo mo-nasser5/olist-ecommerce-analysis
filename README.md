@@ -120,7 +120,7 @@ The following preprocessing steps were performed:
 
 ### Executive Overview
 
-![Overview](Screenshot 2026-06-20 221256.png)
+Screenshot 2026-06-20 221256.png
 
 ### Sales Analysis
 
@@ -177,5 +177,6 @@ Aspiring Data Analyst & Machine Learning Engineer
 
 ## 🔗 Connect With Me
 
-* LinkedIn: Add Your LinkedIn URL
-* GitHub: Add Your GitHub URL
+* LinkedIn: www.linkedin.com/in/mohamed-nasser-ِai
+
+
